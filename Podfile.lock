@@ -1,0 +1,81 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - GoogleMaps (3.4.0):
+    - GoogleMaps/Maps (= 3.4.0)
+  - GoogleMaps/Base (3.4.0)
+  - GoogleMaps/Maps (3.4.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.4.0):
+    - GoogleMaps/Base (= 3.4.0)
+  - ImageSlideshow (1.8.0):
+    - ImageSlideshow/Core (= 1.8.0)
+  - ImageSlideshow/Alamofire (1.8.0):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.8.0)
+  - ImageSlideshow/SDWebImage (1.8.0):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManager (6.4.0)
+  - JTMaterialSpinner (3.0.5)
+  - OpalImagePicker (2.1.0)
+  - SDWebImage (5.1.0):
+    - SDWebImage/Core (= 5.1.0)
+  - SDWebImage/Core (5.1.0)
+  - SwiftyJSON (5.0.0)
+  - Toaster (2.2.0)
+  - ValueStepper (1.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - GooglePlaces
+  - ImageSlideshow
+  - ImageSlideshow/Alamofire
+  - ImageSlideshow/SDWebImage
+  - iOSDropDown
+  - IQKeyboardManager
+  - JTMaterialSpinner
+  - OpalImagePicker
+  - SDWebImage
+  - SwiftyJSON
+  - Toaster
+  - ValueStepper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - GoogleMaps
+    - GooglePlaces
+    - ImageSlideshow
+    - iOSDropDown
+    - IQKeyboardManager
+    - JTMaterialSpinner
+    - OpalImagePicker
+    - SDWebImage
+    - SwiftyJSON
+    - Toaster
+    - ValueStepper
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  GoogleMaps: 67f4a604f80dd6a22d09c2a507a3a395b9f23060
+  GooglePlaces: 7547289e3fffc8980f4a027be99888e29d59b15d
+  ImageSlideshow: 197130fe349aafa9446f54277c792551d41eadf9
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManager: fcef267266379c003181fc3592f6bdb8bf4db839
+  JTMaterialSpinner: 28a0444186b6b2df4206a77d12f7c9dcbe604958
+  OpalImagePicker: 40e9d4c27018538a704d8da34b2ff3a2a54a3dc8
+  SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+  ValueStepper: 8b120c72c8d1391cd874a427485e2e57fda1a0b9
+
+PODFILE CHECKSUM: 955598c84ae9d590cf62b5bc82a7aef38f5fbd2e
+
+COCOAPODS: 1.8.1

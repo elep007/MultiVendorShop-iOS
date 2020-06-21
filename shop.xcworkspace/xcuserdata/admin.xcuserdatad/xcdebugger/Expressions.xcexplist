@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BuyerProductVC.setfaveBtn(_:):BuyerProductVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginVC.viewDidLoad():LoginVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "save_username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BuyerProductVC.setready():BuyerProductVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Defaults.getNameAndValue(Defaults.PRODUCTID_KEY)">
+            </PersistentString>
+            <PersistentString
+               value = "Defaults.getNameAndValue(Defaults.USERID_KEY)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SellerAddProductVC.imagePicker(_:didFinishPickingImages:):SellerAddProductVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "inputSource.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SellerAddProductVC.AddProductBtn(_:):SellerAddProductVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txtProductPrice.text!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BuyerMainVC.collectionView(_:didSelectItemAt:):BuyerMainVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "allproduct[2].id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
